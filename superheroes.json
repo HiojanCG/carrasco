@@ -1,40 +1,40 @@
 {
-  "squadName" : "Super Hero pene",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "squadName" : "Equipo de Super Heroes",
+  "homeTown" : "Estados Unidos de America",
+  "formed" : 2022,
+  "secretBase" : "Edificio Avengers",
   "active" : true,
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "name" : "Spiderman",
+      "age" : 20,
+      "secretIdentity" : "Piter Parker",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "Lanzar Telarañas",
+        "Sentido Aracnido",
+        "Super Fuerza"
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "name" : "Iroman",
+      "age" : 45,
+      "secretIdentity" : "Tony Stark",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "Super Fuerza",
+        "Super Resistencia",
+        "Super Velocidad"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "name" : "Hulk",
+      "age" : 150,
+      "secretIdentity" : "No se sabe",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "Inmortal",
+        "Super Fuerza",
+        "Super velocidad",
+        "Saltar alto",
+        "Poder aguantar disparos"
       ]
     }
   ]
